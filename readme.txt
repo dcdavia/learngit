@@ -3,7 +3,7 @@ better than svn.
 the first branch is master
 
 git init 初始化
-git add 提交到暂存区
+git add file 提交到暂存区
 git commit 提交到工作区
 git status 查询已修改未提交的变更
 git diff file 查看文件修改内容
