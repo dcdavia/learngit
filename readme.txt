@@ -1,6 +1,5 @@
 Git is a distributed version control system.
 better than svn.
-the first branch is master
 
 git init 初始化
 git add file 提交到暂存区
