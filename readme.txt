@@ -10,3 +10,4 @@ git diff file 查看文件修改内容
 git log 查询提交历史记录
 git reflog 查询执行命令历史记录
 git reset --hard HEAD^/版本号 回退版本
+git checkout -- file 丢弃工作区的修改，回退到暂存区或版本库
