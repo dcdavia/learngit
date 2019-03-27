@@ -1,7 +1,3 @@
-Git is a distribute version control system.
-Git is a free software under the GPL.
-Git has a mutable index called stage.
-
 git add ##add a file to stage
 git commit -m "" ##commit all changes of stage to repository
 git status ##show status of working directory
