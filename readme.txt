@@ -11,3 +11,4 @@ git checkout ##switch to another branches
 git remote add github git@github.com:dcdavia/leangit ##relate the repository to a remote repository
 git push github master ##push the local repository to the remote repository
 git pull github master ##pull the remote repository to local repository
+git clone git@github.com:dcdavia/leangit
